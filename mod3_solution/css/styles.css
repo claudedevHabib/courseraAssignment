@@ -38,6 +38,10 @@ background-color: lightblue;
 {
 text-align: center;
 }
+#content
+{
+	background-color: gray;
+}
 
 p
 {
