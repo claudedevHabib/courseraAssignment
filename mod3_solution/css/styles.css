@@ -59,4 +59,9 @@ p
 	margin-top: 10px;
 }
 
+section a
+{
+	color: black;
+	text-decoration: none;
+}
 
