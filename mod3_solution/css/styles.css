@@ -1,0 +1,62 @@
+
+#header-nav
+{
+	background-color:lightgray;
+	border-radius: 0px;
+	border:0px;
+	height: 80px;
+	
+}
+#brand
+{
+
+font-family: Quicksand Medium, Comic Sans MS, sans serif;
+font-weight: bolder; 	
+}
+#top
+{
+
+font-family: Quicksand Medium, Comic Sans MS, sans serif;
+font-weight: bolder; 
+font-size: 32px;	
+}
+
+#nav-list
+{
+	
+	margin-top: 10px;
+background-color: lightblue;
+}
+#nav-list a:hover
+{
+	background-color: green;
+	border-radius: 4px;
+	color: white;
+	margin-top: -10px;
+}
+#nav-list a
+{
+text-align: center;
+}
+
+p
+{
+	font-size: 24px;
+	font-weight: bolder;
+}
+
+#left
+{
+	margin-top: 10px;
+}
+#right
+{
+	margin-top: 10px;
+}
+
+#center
+{
+	margin-top: 10px;
+}
+
+
